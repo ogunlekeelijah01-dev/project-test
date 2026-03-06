@@ -1,0 +1,48 @@
+body{
+  background: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.login-container{
+  display: flex;
+  max-width: 350px;
+  align-items: center;
+  margin: 50px auto;
+  flex-direction: column;
+}
+.logo{
+  color: blue;
+  font-size: 50px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+.input{
+  width: 50%;
+  margin: 50px;
+}
+
+.login-btn{
+  color: white;
+  background: blue;
+  width: 80%;
+  height: 40px;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.button{
+  color: white;
+  background: forestgreen;
+  padding: 7px;
+  width: 65%;
+  margin: 20px;
+  font-size: 20px;
+}
+.foster{
+  margin: 10px;
+  padding: 10px;
+  margin-bottom: 30;
+  text-decoration: none;
+  }
+ 
